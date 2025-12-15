@@ -10,13 +10,12 @@ Don't worry about messing this repository up; it is meant for testing.
 - MediaWiki tutorial on using Gerrit: [Gerrit/Tutorial](https://www.mediawiki.org/wiki/Gerrit/Tutorial)
 - Shorter version: [Gerrit/Tutorial/tl;dr](https://www.mediawiki.org/wiki/Gerrit/Tutorial/tl;dr)
 
-Hello World! Hello Gerrit!
+Hello World! Hello Gerrit!!!
+
+This is an update from Yusufari1!!!
 
 Hello Again world!
 
 Hello Again a third time!
 
 Hello Gerrit!!!
-
-First commit b4 rebase
-Second commit b4 rebase
