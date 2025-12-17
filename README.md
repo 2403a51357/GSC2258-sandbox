@@ -19,3 +19,4 @@ Hello Again a third time!
 Hello Gerrit!!!
 
 First commit b4 rebase
+Second commit b4 rebase
